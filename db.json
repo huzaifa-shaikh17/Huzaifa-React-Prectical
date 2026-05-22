@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "title": "Wireless Bluetooth Headphones",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "category": "Electronics",
+      "description": "High-quality wireless headphones with noise cancellation and 20-hour battery life.",
+      "userEmail": "huzaifa123@gmail.com",
+      "userName": "huzaifa",
+      "id": "MeUjnOTM33o"
+    },
+    {
+      "title": "Gaming Mechanical Keyboard",
+      "price": 3999,
+      "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae",
+      "category": "Electronics",
+      "description": "RGB mechanical keyboard designed for gaming and fast typing experience.",
+      "userEmail": "huzaifa123@gmail.com",
+      "userName": "huzaifa",
+      "id": "qUcsRkyTiVM"
+    },
+    {
+      "title": "Smart Fitness Watch",
+      "price": 5499,
+      "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
+      "category": "Wearables",
+      "description": "Fitness smartwatch with heart-rate monitoring and sleep tracking features.",
+      "userEmail": "harsh123@gmail.com",
+      "userName": "harsh",
+      "id": "f64zvs9nDDg"
+    },
+    {
+      "title": "Casual Men’s Sneakers",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "category": "Fashion",
+      "description": "Comfortable and stylish sneakers suitable for daily wear.",
+      "userEmail": "harsh123@gmail.com",
+      "userName": "harsh",
+      "id": "tJs6v1S--sg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
